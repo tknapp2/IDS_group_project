@@ -1,0 +1,17 @@
+edu/nd/cse/ids/finalproject/messages/ExerciseSummaryMessage.class
+edu/nd/cse/ids/finalproject/messages/ExerciseDifficultyMessage.class
+edu/nd/cse/ids/finalproject/messages/EquipmentMessage.class
+edu/nd/cse/ids/finalproject/messages/ExerciseNameMessage.class
+edu/nd/cse/ids/finalproject/messages/RoutineMessage.class
+edu/nd/cse/ids/finalproject/DocumentPlanner.class
+edu/nd/cse/ids/finalproject/messages/InstructionsMessage.class
+edu/nd/cse/ids/finalproject/messages/GreetingMessage.class
+edu/nd/cse/ids/finalproject/Exercise.class
+edu/nd/cse/ids/finalproject/Realizer.class
+edu/nd/cse/ids/finalproject/messages/Message.class
+edu/nd/cse/ids/finalproject/Preprocess.class
+edu/nd/cse/ids/finalproject/ExerciseReader.class
+edu/nd/cse/ids/finalproject/messages/AlternativeExerciseMessage.class
+edu/nd/cse/ids/finalproject/WorkoutBuddyNLG.class
+edu/nd/cse/ids/finalproject/messages/MuscleInfoMessage.class
+edu/nd/cse/ids/finalproject/MicroPlanner.class
